@@ -1,0 +1,39 @@
+
+.resume{
+  width:1000px;
+}
+
+h3 {
+  font-family: "宋体";
+  font-weight: bold;
+  color:#6495ED;
+}
+
+.edu_info p,.program_info p,.job_info p,.certifi_info p{
+  text-indent: 10px;
+}
+.top{
+  width:1000px;
+  height:200px;
+  margin:5px;
+}
+.top_left{
+  float:left;
+  width:70%;
+  //background-color:red;
+}
+.top_right{
+  float:right;
+  width:25%;
+  //background-color:blue;
+}
+#title{
+  position:relative;
+  text-align:center;
+}
+
+.person_info li{
+  text-decoration:none;
+  list-style-type:none;
+  line-height: 25px;
+}
